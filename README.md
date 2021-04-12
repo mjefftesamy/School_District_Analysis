@@ -7,7 +7,6 @@ Repeat the school district analysis in module 4
 Find out top 5 and bottom 5 performing schools
 Find out average math and reading scores for each grade from each school
 Find out scores by school spending per student, by school size, and by school type
-Be
 
 # Results
 ## Impact on District
